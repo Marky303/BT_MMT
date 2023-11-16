@@ -7,3 +7,4 @@ Server and Client java application with CLI
 Server and Client folder
 
 Run server or client by running app.java respectively 
+
