@@ -79,6 +79,7 @@ public class ClientHandler implements Runnable {
                         bashOut.write(filename);
                         bashOut.newLine();
                         bashOut.flush();
+                        clientFile.add(filename);
                     }
                     
                     break;
